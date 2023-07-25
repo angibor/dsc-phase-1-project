@@ -136,7 +136,7 @@ By following these recommendations and combining data-driven insights with creat
 
 
 <img src="./images/test2.png"/>
-#### Interpretation of the figure
+Interpretation of the figure
 The provided code generates a box plot that visualizes the box office revenue by movie genre for the top 20 genres. The x-axis represents different movie genres, and the y-axis shows the domestic box office revenue for movies belonging to each genre. The box plot provides valuable insights into the distribution of box office revenue within each genre, with the boxes representing the interquartile range (IQR) and the whiskers showing the data's range within 1.5 times the IQR. Outliers beyond the whiskers are also displayed. This visualization is important for decision-making in the film industry as it helps studio executives, producers, and investors understand the revenue potential of different genres. By identifying genres with higher median box office revenue and narrower revenue distributions, decision-makers can make informed choices on movie projects, marketing strategies, and budget allocation to maximize their chances of commercial success. Additionally, the visualization aids in recognizing any significant revenue differences between genres, allowing them to adjust their business strategies and focus on the genres that align with their business goals and target audiences more effectively.
 
 
