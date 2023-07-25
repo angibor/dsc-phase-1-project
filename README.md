@@ -134,8 +134,6 @@ Collaborate with Talented Filmmakers: Partner with talented filmmakers, director
 
 By following these recommendations and combining data-driven insights with creativity and innovation, Microsoft's movie studio can position itself for success in the competitive entertainment industry. Strategic investments in the right genres, collaborations, and marketing efforts can lead to a strong market presence and a lucrative movie portfolio. Ultimately, understanding audience preferences, delivering high-quality content, and staying agile in response to market trends will be key to thriving in the ever-evolving movie landscape.
 
-<img src="./images/test.png"/>
-the figure shows the most popular genres that which are being watched. here Microsoft will be able to make a decision based on the popularity of the genre. 
 
 <img src="./images/test2.png"/>
 #### Interpretation of the figure
